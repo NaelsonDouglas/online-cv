@@ -10,7 +10,7 @@ url: 'https://naelsondouglas.github.io'
 
 description: AI Solutions Engineer specializing in Natural Language Processing, Machine Learning, and Blockchain technologies
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: mint # blue turquoise green berry orange ceramic teal oceanstale mint
+theme_skin: colorhunt # blue turquoise green berry orange ceramic teal oceanstale mint colorhunt
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker

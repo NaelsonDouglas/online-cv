@@ -14,5 +14,5 @@ $resume-order: 1;
 $sidebar-order: 2;
 {% endif %}
 
-@import "skins/{{ site.theme_skin | default: 'mint' }}"; // dramatic high-contrast theme: deep black-brown sidebar + vibrant red main content
+@import "skins/{{ site.theme_skin | default: 'colorhunt' }}"; // Color Hunt palette: light blue, light green, beige, light brown
 @import "default"; // main partials
