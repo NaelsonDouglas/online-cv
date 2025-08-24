@@ -89,14 +89,13 @@ experiences:
     time: Nov 2019 - Present
     company: Centro de Inovações Edge
     details: |
-      Consultancy and technical leadership in delivering AI and software engineering solutions for major industry clients through R&D projects. Here I am Responsible for leading and architecting AI initiatives for industry players and technology companies, with hands-on expertise in project management, technical direction, and cross-company collaboration across diverse AI domains.
+      Consultancy and technical leadership in delivering AI and software engineering solutions for major industry clients through R&D projects.
 
   - role: AI Engineer Consultant
-    time: Jul 2025 - Present
-    company: DELL
+    time: Jul 2024 - Present
+    company: Dell Technologies
     details: |
-      Leading the development of a Retrieval-Augmented Generation (RAG) solution that provides employees with seamless, AI-powered access to an agnostic and ever-increasing knowledge base, including internal documentation and application logs. This platform enables efficient and intuitive information retrieval, accelerates issue resolution, and drives operational efficiency by ensuring that knowledge is continuously expanded and easily accessible across the organization.
-
+      Leading the development of a Retrieval-Augmented Generation (RAG) solution that provides employees with seamless, AI-powered access to an agnostic and ever-increasing knowledge base, including internal documentation and application logs.
   - role: AI Developer and Tech Leader
     time: Mar 2021 - Jul 2025
     company: General Electric
@@ -107,7 +106,7 @@ experiences:
     time: Nov 2023 - Mar 2025
     company: HTM Eletrônica
     details: |
-      Designed and led the development of a system that continuously monitored and identified relevant changes in regulations, ensuring the company remained informed and compliant with evolving legal requirements. The solution provided timely, actionable updates to stakeholders, enabling the business to anticipate regulatory shifts, reduce compliance risks, and make informed decisions that safeguarded operations and supported strategic objectives.
+      Designed and led the development of a system that continuously monitored and identified relevant changes in regulations, ensuring the company remained informed and compliant with evolving legal requirements.
 
   - role: AI Engineer Consultant
     time: Sep 2022 - Dec 2022
@@ -119,19 +118,19 @@ experiences:
     time: Aug 2022 - Dec 2022
     company: Bosch
     details: |
-      Designed the solution architecture and developed a system that continuously monitored and identified relevant changes in legislation, ensuring the company remained informed and compliant with evolving legal requirements. By providing timely and actionable updates to stakeholders, the project enabled the business to anticipate regulatory shifts, reduce compliance risks, and make informed decisions that safeguarded operations and supported long-term strategic goals.
+      Designed the solution architecture and developed a system that continuously monitored and identified relevant changes in legislation, ensuring the company remained informed and compliant with evolving legal requirements.
 
   - role: Data Scientist Engineer Consultant
     time: Aug 2020 - May 2022
     company: ASUS
     details: |
-      Led the development of an autonomous, real-time system that continuously monitored and analyzed user feedback across multiple social networks. The solution not only identified what was being said about each company product, but also provided granular insights into specific aspects of each product discussed by users. This live analysis enabled the company to rapidly understand customer perceptions, address concerns, and make data-driven decisions to enhance product offerings and customer satisfaction.
+      Led the development of an autonomous, real-time system that continuously monitored and analyzed user feedback across multiple social networks using NLP and scraping tools.
 
   - role: .NET Developer Consultant
     time: Nov 2019 - Aug 2020
     company: Smart Modular Technologies
     details: |
-      Developed and delivered a solution that tracked and controlled all steps in factory assembly, providing real-time visibility of product status and driving operational efficiency. By managing digital signatures, permissions, reports, and alerts, the system streamlined the manufacturing process, improved transparency, and delivered measurable value through enhanced process control and faster decision-making.
+      Developed and delivered a solution that tracked and controlled all steps in factory assembly, providing real-time visibility of product status and driving operational efficiency.
 
   - role: Scientific Researcher
     time: Jul 2015 - Jul 2018
