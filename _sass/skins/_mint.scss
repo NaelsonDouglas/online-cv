@@ -1,0 +1,50 @@
+/* Dramatic High-Contrast Theme - Color Hunt Palette */
+/* Sidebar (Personal Data Column) - Deep Black-Brown Theme */
+$sidebar-bg: #1D1616;        /* Deep Black-Brown - Sidebar background */
+$sidebar-text: #EEEEEE;       /* Light Grey-White - Sidebar text */
+$sidebar-accent: #D84040;     /* Vibrant Red - Sidebar accents */
+$sidebar-border: #8E1616;     /* Rich Burgundy - Sidebar borders */
+
+/* Main Content Area - Dramatic High-Contrast Theme */
+$theme-color: #D84040;        /* Vibrant Red - Primary accent */
+$text-color: #1D1616;         /* Deep Black-Brown - Main text */
+$text-color-secondary: #8E1616; /* Rich Burgundy - Secondary text */
+$text-grey: #6B7280;         /* Medium Grey - Muted text */
+$divider: #DC2626;            /* Bright Red - Dividers and borders */
+$lighter-grey: #F9FAFB;      /* Very Light Grey - Light backgrounds */
+$darker-grey: #111827;       /* Dark Grey - Dark accents */
+$smoky-white: #EEEEEE;       /* Light Grey-White - Main background */
+$heart: #D84040;             /* Vibrant Red - Heart icon */
+
+/* Override sidebar colors to use deep black-brown theme */
+.sidebar-wrapper {
+  background: $sidebar-bg !important;
+  color: $sidebar-text !important;
+  
+  .profile-container {
+    background: rgba($sidebar-accent, 0.1) !important;
+    color: $sidebar-text !important;
+  }
+  
+  .name {
+    color: $sidebar-text !important;
+  }
+  
+  .tagline {
+    color: rgba($sidebar-text, 0.8) !important;
+  }
+  
+  a {
+    color: $sidebar-accent !important;
+    
+    &:hover {
+      color: lighten($sidebar-accent, 15%) !important;
+    }
+  }
+  
+  .contact-list {
+    .fas, .fab, .far {
+      color: $sidebar-accent !important;
+    }
+  }
+}
