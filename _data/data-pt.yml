@@ -1,0 +1,237 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Naelson Douglas C. Oliveira
+  tagline: Engenheiro de Soluções em IA
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: naelsondouglas@gmail.com
+  phone:
+  timezone: America/Maceio # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Brasil
+  website: # Include the full website URL, including "http://" or "https://".
+  linkedin: naelsondouglas
+  xing:
+  github: NaelsonDouglas
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky: # Specify your full Bluesky handle
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Idiomas
+    info:
+    - idiom: Português Brasileiro
+      level: Nativo
+
+    - idiom: Inglês
+      level: Profissional
+
+  interests:
+    title: Interesses
+    info:
+
+    - item: Desenvolvimento de soluções em IA
+      link:
+
+    - item: Web Scraping
+      link:
+
+    - item: Engenharia de Software
+      link:
+
+career-profile:
+  title: Perfil Profissional
+  summary: |
+    Cientista da computação com ampla experiência na arquitetura e desenvolvimento de soluções em IA para a indústria. Conecto pesquisa e implementação prática para entregar resultados impactantes.
+
+education:
+  title: Educação
+  info:
+  - degree: Mestrado em Ciência da Computação
+    university: Universidade Federal de Alagoas, Maceió, Brasil
+    time: 2020 - 2022
+    details: |
+      • Foco: Engenharia de software e Python
+      • Pesquisa publicada sobre avisos baseados em lint em Python e desenvolvimento de extensão auto-corretiva para VS Code
+      • Título da pesquisa: "Avisos baseados em Lint em Python: Frequência, Consciência e Refatoração"
+      • Publicado em: International Working Conference on Source Code Analysis and Manipulation
+
+  - degree: Bacharelado em Ciência da Computação
+    university: Universidade Federal de Alagoas, Maceió, Brasil
+    time: 2013 - 2019
+    details: |
+      • Foco: Processamento de Linguagem Natural, Machine Learning, Computação em nuvem
+      • Co-autor de dois artigos publicados no IGARSS (International Geoscience and Remote Sensing Symposium)
+      • Recebeu dois prêmios de excelência acadêmica por contribuições científicas
+      • Áreas de pesquisa: Processamento de imagens CloudArray e implantação em nuvem para dados de sensoriamento remoto
+
+experiences:
+  title: Experiências
+  info:
+  - role: Engenheiro de IA, Arquiteto de Soluções e Líder Técnico
+    time: Nov 2019 - Presente
+    company: Centro de Inovações Edge
+    details: |
+      Consultoria e liderança técnica na entrega de soluções de IA e engenharia de software para grandes clientes da indústria através de projetos de P&D.
+
+  - role: Consultor Engenheiro de IA
+    time: Jul 2024 - Presente
+    company: Dell Technologies
+    details: |
+      Liderando o desenvolvimento de uma solução de Geração Aumentada por Recuperação (RAG) que fornece aos funcionários acesso perfeito e alimentado por IA a uma base de conhecimento agnóstica e sempre crescente, incluindo documentação interna e logs de aplicação.
+
+  - role: Desenvolvedor de IA e Líder Técnico
+    time: Mar 2021 - Jul 2024
+    company: General Electric
+    details: |
+      Desenvolveu e implantou uma plataforma de IA para leilões de equipamentos médicos, automatizando vendas, conformidade e detecção de risco contratual. Melhorou recomendações de vendas e tomada de decisão com insights em tempo real, reduzindo significativamente o trabalho manual e aumentando a eficiência.
+
+  - role: Consultor Líder Técnico
+    time: Nov 2023 - Mar 2024
+    company: HTM Eletrônica
+    details: |
+      Projetou e liderou o desenvolvimento de um sistema que monitorava continuamente e identificava mudanças relevantes em regulamentações, garantindo que a empresa permanecesse informada e em conformidade com requisitos legais em evolução.
+
+  - role: Consultor Engenheiro de IA
+    time: Set 2022 - Dez 2022
+    company: Niche Investments
+    details: |
+      Entregou uma solução web que extrai automaticamente insights de ROI de sites agnósticos de listagem de vendas online, permitindo a identificação de oportunidades de negócios de alto valor.
+
+  - role: Consultor Cientista de Dados
+    time: Ago 2022 - Dez 2022
+    company: Bosch
+    details: |
+      Projetou a arquitetura da solução e desenvolveu um sistema que monitorava continuamente e identificava mudanças relevantes na legislação, garantindo que a empresa permanecesse informada e em conformidade com requisitos legais em evolução.
+
+  - role: Consultor Engenheiro Cientista de Dados
+    time: Ago 2020 - Mai 2022
+    company: ASUS Inc.
+    details: |
+      Liderou o desenvolvimento de um sistema autônomo e em tempo real que monitorava continuamente e analisava feedback dos usuários em múltiplas redes sociais usando ferramentas de NLP e scraping.
+
+  - role: Consultor Desenvolvedor .NET
+    time: Nov 2019 - Ago 2020
+    company: Smart Modular Technologies
+    details: |
+      Desenvolveu e entregou uma solução que rastreava e controlava todas as etapas na montagem da fábrica, fornecendo visibilidade em tempo real do status do produto e impulsionando a eficiência operacional.
+
+  - role: Pesquisador Científico
+    time: Jul 2015 - Jul 2018
+    company: Universidade Federal de Alagoas
+    details: |
+      Conduziu pesquisa em processamento de dados e computação distribuída, com foco no processamento de imagens polarimétricas usando a linguagem de programação Julia. Desenvolveu soluções de análise de imagens médicas utilizando redes neurais convolucionais. Ferramentas utilizadas incluíram Julia, Python, R, PyTorch, AWS e Linux.
+
+certifications:
+  title: Certificações
+  list:
+  - name: Prêmio de Excelência Acadêmica
+    start: 2019
+    end: 2019
+    organization: Universidade Federal de Alagoas
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      • Concedido por contribuições científicas para "CloudArray: Facilitando o processamento de imagens enormes"
+      • Publicado no International Geoscience and Remote Sensing Symposium (IGARSS)
+
+  - name: Prêmio de Excelência Acadêmica
+    start: 2018
+    end: 2018
+    organization: Universidade Federal de Alagoas
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      • Concedido por contribuições científicas para "Um suporte de implantação automática para processamento de dados de sensoriamento remoto na nuvem"
+      • Publicado no International Geoscience and Remote Sensing Symposium (IGARSS)
+
+projects:
+  title: Projetos
+  intro: >
+    Aqui estão alguns dos principais projetos em que trabalhei no campo de machine learning e soluções de IA.
+  assignments:
+  - title: Rastreador de Notícias Agnóstico e Ingestor de Dados para LLMs
+    link: "#"
+    tagline: >
+      Sistema autônomo para rastrear e ingerir notícias de fontes diversas, vetorizando conteúdo para uso como base de conhecimento em aplicações de IA de Geração Aumentada por Recuperação (RAG).
+
+  - title: Avisos baseados em Lint em Python
+    link: "#"
+    tagline: "Projeto de pesquisa sobre frequência, consciência e refatoração de avisos de lint em Python, resultando em um artigo publicado e extensão do VS Code."
+
+  - title: Sistema de Recomendação de Equipamentos Médicos
+    link: "#"
+    tagline: "Sistema alimentado por IA para compreensão automática de documentos técnicos e recomendações de vendas para leilões de equipamentos médicos."
+
+  - title: Detecção de Conformidade com Legislação Federal
+    link: "#"
+    tagline: "Sistema de NLP em tempo real para detectar conformidade da empresa com legislação federal recém-publicada usando web scraping e machine learning."
+
+  - title: Análise de Sentimento em Mídias Sociais
+    link: "#"
+    tagline: "Sistema de web crawler para coletar e analisar feedback dos usuários de plataformas de mídia social usando BERT e técnicas avançadas de NLP."
+
+  - title: Processamento de Imagens CloudArray
+    link: "#"
+    tagline: "Solução de computação distribuída para processar imagens de sensoriamento remoto em larga escala usando Julia e infraestrutura em nuvem."
+
+publications:
+  title: Publicações
+  intro: |
+    Minhas publicações de pesquisa no campo da ciência da computação, machine learning e engenharia de software.
+  papers:
+  - title: "Avisos baseados em Lint em Python: Frequência, Consciência e Refatoração"
+    link: "#"
+    authors: Naelson Douglas C. Oliveira
+    conference: "International Working Conference on Source Code Analysis and Manipulation, 2022"
+
+  - title: "CloudArray: Facilitando o processamento de imagens enormes"
+    link: "#"
+    authors: Naelson Douglas C. Oliveira et al.
+    conference: "International Geoscience and Remote Sensing Symposium, 2019"
+
+  - title: "Um suporte de implantação automática para processamento de dados de sensoriamento remoto na nuvem"
+    link: "#"
+    authors: Naelson Douglas C. Oliveira et al.
+    conference: "International Geoscience and Remote Sensing Symposium, 2018"
+
+skills:
+  title: Habilidades & Proficiência
+
+  toolset:
+  - name: IA & LLMs
+    level: 90%
+
+  - name: Docker & DevOps
+    level: 80%
+
+  - name: Linux & AWS
+    level: 80%
+
+  - name: Processamento de Linguagem Natural (NLP)
+    level: 85%
+
+  - name: Python
+    level: 95%
+
+  - name: Web Scraping
+    level: 90%
