@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: naelsondouglas@gmail.com
-  phone: +55 82 998 033 329
+  phone:
   timezone: America/Maceio # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Brazil
   website: # Include the full website URL, including "http://" or "https://".
@@ -252,29 +252,23 @@ skills:
   title: Skills & Proficiency
 
   toolset:
-  - name: Python & Machine Learning
-    level: 98%
-
-  - name: Natural Language Processing (NLP)
-    level: 95%
+  - name: AI & LLMs
+    level: 90%
 
   - name: Docker & DevOps
-    level: 90%
-
-  - name: Spacy & NLTK
-    level: 95%
-
-  - name: PyTorch & Scikit-learn
-    level: 90%
-
-  - name: Linux & AWS
-    level: 85%
-
-  - name: Julia & R
     level: 80%
 
-  - name: Web Scraping & APIs
+  - name: Linux & AWS
+    level: 80%
+
+  - name: Natural Language Processing (NLP)
     level: 85%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  - name: Python
+    level: 95%
+
+  - name: Web Scraping
+    level: 90%
+
+# footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
