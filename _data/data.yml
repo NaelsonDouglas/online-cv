@@ -19,13 +19,13 @@ sidebar:
   citizenship: Brazil
   website: # Include the full website URL, including "http://" or "https://".
   linkedin: naelsondouglas
-  xing: 
+  xing:
   github: NaelsonDouglas
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky: # Specify your full Bluesky handle
-  twitter: 
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -46,13 +46,11 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Natural Language Processing (NLP)
+
+    - item: AI solutions development
       link:
 
-    - item: Blockchain
-      link:
-
-    - item: Machine Learning
+    - item: Web Scraping
       link:
 
     - item: Software Engineering
@@ -61,7 +59,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a computer scientist experienced in building machine learning powered solutions. My main interests are in the field of Natural Language Processing (NLP) and Blockchain. But I have been working in diverse fields of machine learning and software development in general, both as developer and as team leader. I have strong skills in Python, Spacy, Docker, Linux and in machine learning in general. I can communicate both in English and Portuguese. And I have experience in both academia and industry.
+    Computer scientist with extensive experience in the architecture and development of AI solutions for industry. I bridge research and practical implementation to deliver impactful results.
 
 education:
   title: Education
@@ -70,62 +68,78 @@ education:
     university: Universidade Federal de Alagoas, Maceió, Brazil
     time: 2020 - 2022
     details: |
-      Specialization: Software engineering and Python
-      Conducted a research with the title "Lint-based Warnings in Python: Frequency, Awareness and Refactoring" which resulted in a paper published at the International Working Conference on Source Code Analysis and Manipulation.
-      Implemented a Visual Studio Code extension able to automatically fix Lint-based Warnings.
+      • Focus: Software engineering and Python
+      • Published research on lint-based warnings in Python and developed an auto-fix extension for VS Code
+      • Research title: "Lint-based Warnings in Python: Frequency, Awareness and Refactoring"
+      • Published at: International Working Conference on Source Code Analysis and Manipulation
+
   - degree: Bachelor in Computer Science
     university: Universidade Federal de Alagoas, Maceió, Brazil
     time: 2013 - 2019
     details: |
-      Specialization: Machine Learning and distributed computing on the cloud
-      Participated in two different researches with the title "CloudArray: Easing huge image processing" and "An automatic deployment support for processing remote sensing data in the cloud". Where both were published at the International Geoscience and Remote Sensing Symposium.
-      Won twice the award of academic excellence for the scientific contributions on the previously cited papers.
+      • Focus: Natural Language Processing, Machine Learning, Cloud computing
+      • Co-authored two papers published at IGARSS (International Geoscience and Remote Sensing Symposium)
+      • Received two academic excellence awards for scientific contributions
+      • Research areas: CloudArray image processing and cloud deployment for remote sensing data
 
 experiences:
   title: Experiences
   info:
-  - role: Data Scientist, Tech Leader and Software Engineer
+  - role: AI Engineer, Solutions Architect and Tech Leader
     time: Nov 2019 - Present
     company: Centro de Inovações Edge
     details: |
-      This company intermediates most of my projects. It is a R&D focused company which makes possible several projects in the field of machine learning and software engineering. Namely, my projects with Smart, ASUS, General Electric and Compal (all listed below) were made possible through it.
+      • Serve as a consultant and technical leader, delivering AI and software engineering solutions for major industry clients through P&D projects
+      • Lead and architect machine learning initiatives for major industry players and technology companies
+      • Provide hands-on expertise in project management, technical direction, and cross-company collaboration within diverse AI domains
 
-  - role: Data Scientist
+  - role: AI Engineer Consultant
+    time: Jul 2025 - Present
+    company: DELL
+    details: |
+      Leading the development of a Retrieval-Augmented Generation (RAG) solution that provides employees with seamless, AI-powered access to an agnostic and ever-increasing knowledge base, including internal documentation and application logs. This platform enables efficient and intuitive information retrieval, accelerates issue resolution, and drives operational efficiency by ensuring that knowledge is continuously expanded and easily accessible across the organization.
+
+  - role: AI Developer and Tech Leader
+    time: Mar 2021 - Jul 2025
+    company: General Electric
+    details: |
+      Developed and deployed an AI platform for medical equipment auctions, automating sales, compliance, and contract risk detection. Improved sales recommendations and decision-making with real-time insights, significantly reducing manual work and increasing efficiency.
+
+  - role: Tech Leader Consultant
+    time: Nov 2023 - Mar 2025
+    company: HTM Eletrônica
+    details: |
+      Designed and led the development of a system that continuously monitored and identified relevant changes in regulations, ensuring the company remained informed and compliant with evolving legal requirements. The solution provided timely, actionable updates to stakeholders, enabling the business to anticipate regulatory shifts, reduce compliance risks, and make informed decisions that safeguarded operations and supported strategic objectives.
+
+  - role: AI Engineer Consultant
     time: Sep 2022 - Dec 2022
     company: Niche Investments
     details: |
-      I projected and implemented a machine learning approach capable of automatically detecting relevant parts on the text of online sale listings. These parts were afterwards used as input to the company business model. Based on my previous experience, I was given in this project total liberty and control on the project design decisions. At the current time the implemented model is being prepared for the production final release.
-      Tools: Spacy, Heroku, Docker-compose, NLTK, Thefuzz, FastAPI, Pandas, Scikit-learn, Pytorch etc
+      Delivered a web solution that automatically extracts ROI insights from agnostic online sales listing sites, enabling the identification of high-value business opportunities.
 
-  - role: Data Scientist
+  - role: Data Scientist Consultant
     time: Aug 2022 - Dec 2022
     company: Bosch
     details: |
-      I was contracted to implement a real-time compliance detection of federal legislation using Natural Language Processing.
-      I used a web scraping approach in order to constantly read every newly published federal law. Then I trained a set of models which altogether were capable of identifying if the company is being compliant to these newly created legislation. On top of these models I built a fully fledged system capable of alerting the parts of interest about legislation changes, allowing them to take the needed actions.
-      Tools: Beautiful Soup, Spacy, MLFlow, SqlAlchemy, Docker-compose, Pandas, Scikit-learn, Pytorch etc
+      Designed the solution architecture and developed a system that continuously monitored and identified relevant changes in legislation, ensuring the company remained informed and compliant with evolving legal requirements. By providing timely and actionable updates to stakeholders, the project enabled the business to anticipate regulatory shifts, reduce compliance risks, and make informed decisions that safeguarded operations and supported long-term strategic goals.
 
-  - role: Data Science Tech Leader
-    time: Mar 2021 - Present
-    company: General Electric
-    details: |
-      My goal was to build an automatic comprehension of unstructured technical documents in order to extract equipment specifications and offer sales recommendations.
-      Here I implemented a series of rule-based models capable of detecting the description of technical specifications of a set of medical equipment on auction orders. Using the collected specifications, I then implemented a recommendation system capable of automatically indicating which machine can be sold to the specific auction. Several other auxiliary models were also implemented, for example, a fuzzy matcher capable of visually indicating the location of the features within the documents, as well an OCR based text extractor interface for the final user. This is by far the largest project I've worked on.
-      Tools: Spacy, Displacy, Fuzzy matching, Structural Pattern matching, Parsing-three based matcher, Token sequence based matcher, Docker, Docker-compose, Pytest, Pandas etc
-
-  - role: Data Scientist
+  - role: Data Scientist Engineer Consultant
     time: Aug 2020 - May 2022
-    company: Asus
+    company: ASUS
     details: |
-      I worked on a project where a set of web crawlers were used to collect user feedback from social media. These feedbacks were then processed in a manner to detect their opinion regarding the company.
-      Tools: BERT, HuggingFace, Keras, Twitter API, Youtube API, Spacy, Django, Docker-compose, Pandas, Pytorch etc
+      Led the development of an autonomous, real-time system that continuously monitored and analyzed user feedback across multiple social networks. The solution not only identified what was being said about each company product, but also provided granular insights into specific aspects of each product discussed by users. This live analysis enabled the company to rapidly understand customer perceptions, address concerns, and make data-driven decisions to enhance product offerings and customer satisfaction.
+
+  - role: .NET Developer Consultant
+    time: Nov 2019 - Aug 2020
+    company: Smart Modular Technologies
+    details: |
+      Developed and delivered a solution that tracked and controlled all steps in factory assembly, providing real-time visibility of product status and driving operational efficiency. By managing digital signatures, permissions, reports, and alerts, the system streamlined the manufacturing process, improved transparency, and delivered measurable value through enhanced process control and faster decision-making.
 
   - role: Scientific Researcher
     time: Jul 2015 - Jul 2018
     company: Universidade Federal de Alagoas
     details: |
-      I participated in several researches on the field of data processing. More specifically researches on the field of polarimetric image processing using distributed computing on top of the programming language Julia, as well medical image imaging using convolutional neural networks.
-      Tools: Julia, Python, R, Pytorch, AWS, Linux etc
+      Conducted research in data processing and distributed computing, with a focus on polarimetric image processing using the Julia programming language. Developed medical image analysis solutions utilizing convolutional neural networks. Tools used included Julia, Python, R, PyTorch, AWS, and Linux.
 
 certifications:
   title: Certifications
@@ -134,27 +148,34 @@ certifications:
     start: 2019
     end: 2019
     organization: Universidade Federal de Alagoas
-    credentialid: 
-    credentialurl: 
-    credentialname: 
+    credentialid:
+    credentialurl:
+    credentialname:
     details: |
-      Won the award of academic excellence for scientific contributions on the research "CloudArray: Easing huge image processing" published at the International Geoscience and Remote Sensing Symposium.
+      • Awarded for scientific contributions to "CloudArray: Easing huge image processing"
+      • Published at International Geoscience and Remote Sensing Symposium (IGARSS)
 
   - name: Academic Excellence Award
     start: 2018
     end: 2018
     organization: Universidade Federal de Alagoas
-    credentialid: 
-    credentialurl: 
-    credentialname: 
+    credentialid:
+    credentialurl:
+    credentialname:
     details: |
-      Won the award of academic excellence for scientific contributions on the research "An automatic deployment support for processing remote sensing data in the cloud" published at the International Geoscience and Remote Sensing Symposium.
+      • Awarded for scientific contributions to "An automatic deployment support for processing remote sensing data in the cloud"
+      • Published at International Geoscience and Remote Sensing Symposium (IGARSS)
 
 projects:
   title: Projects
   intro: >
     Here are some of the key projects I've worked on in the field of machine learning and AI solutions.
   assignments:
+  - title: Agnostic News Crawler and Data Ingestor for LLMs
+    link: "#"
+    tagline: >
+      Autonomous system for crawling and ingesting news from diverse sources, vectorizing content for use as a knowledge base in Retrieval-Augmented Generation (RAG) AI applications.
+
   - title: Lint-based Warnings in Python
     link: "#"
     tagline: "Research project on frequency, awareness and refactoring of Python lint warnings, resulting in a published paper and VS Code extension."
@@ -176,21 +197,21 @@ projects:
     tagline: "Distributed computing solution for processing large-scale remote sensing images using Julia and cloud infrastructure."
 
 oss:
-  title: Open Source Contributions
-  intro: >
-    My contributions to open source projects and research publications in the field of computer science and machine learning.
-  contributions:
-  - title: Lint-based Warnings in Python Research
-    link: "#"
-    tagline: "Published research on Python lint warnings at the International Working Conference on Source Code Analysis and Manipulation."
+  # title: Open Source Contributions
+  # intro: >
+  #   My contributions to open source projects and research publications in the field of computer science and machine learning.
+  # contributions:
+  # - title: Lint-based Warnings in Python Research
+  #   link: "#"
+  #   tagline: "Published research on Python lint warnings at the International Working Conference on Source Code Analysis and Manipulation."
 
-  - title: CloudArray Research
-    link: "#"
-    tagline: "Research on distributed image processing published at the International Geoscience and Remote Sensing Symposium."
+  # - title: CloudArray Research
+  #   link: "#"
+  #   tagline: "Research on distributed image processing published at the International Geoscience and Remote Sensing Symposium."
 
-  - title: Medical Image Processing
-    link: "#"
-    tagline: "Research on convolutional neural networks for medical image analysis using distributed computing."
+  # - title: Medical Image Processing
+  #   link: "#"
+  #   tagline: "Research on convolutional neural networks for medical image analysis using distributed computing."
 
 publications:
   title: Publications
@@ -212,25 +233,25 @@ publications:
     authors: Naelson Douglas C. Oliveira et al.
     conference: "International Geoscience and Remote Sensing Symposium, 2018"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: General Electric Team
-    email: 
-    phone: 
-    role: Data Science Team
-    recommendation: |
-      Naelson demonstrated exceptional technical leadership in building our medical equipment recommendation system, delivering a complex AI solution that significantly improved our sales process.
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: General Electric Team
+#     email: 
+#     phone: 
+#     role: Data Science Team
+#     recommendation: |
+#       Naelson demonstrated exceptional technical leadership in building our medical equipment recommendation system, delivering a complex AI solution that significantly improved our sales process.
 
-  - person: Bosch Project Team
-    email: 
-    phone: 
-    role: Compliance Team
-    recommendation: |
-      Naelson successfully implemented a real-time compliance detection system that automated our federal legislation monitoring, greatly improving our regulatory compliance capabilities.
+#   - person: Bosch Project Team
+#     email: 
+#     phone: 
+#     role: Compliance Team
+#     recommendation: |
+#       Naelson successfully implemented a real-time compliance detection system that automated our federal legislation monitoring, greatly improving our regulatory compliance capabilities.
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills & Proficiency
 
   toolset:
   - name: Python & Machine Learning
