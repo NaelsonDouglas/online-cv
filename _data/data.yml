@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Naelson Douglas C. Oliveira
+  tagline: AI Solutions Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  email: naelsondouglas@gmail.com
+  phone: +55 82 998 033 329
+  timezone: America/Maceio # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Brazil
+  website: # Include the full website URL, including "http://" or "https://".
+  linkedin: naelsondouglas
+  xing: 
+  github: NaelsonDouglas
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,250 +37,225 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Brazilian Portuguese
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Natural Language Processing (NLP)
       link:
 
-
-    - item: Snowboarding
+    - item: Blockchain
       link:
 
-
-    - item: Cooking
+    - item: Machine Learning
       link:
 
+    - item: Software Engineering
+      link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am a computer scientist experienced in building machine learning powered solutions. My main interests are in the field of Natural Language Processing (NLP) and Blockchain. But I have been working in diverse fields of machine learning and software development in general, both as developer and as team leader. I have strong skills in Python, Spacy, Docker, Linux and in machine learning in general. I can communicate both in English and Portuguese. And I have experience in both academia and industry.
+
 education:
   title: Education
   info:
   - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+    university: Universidade Federal de Alagoas, Maceió, Brazil
+    time: 2020 - 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Specialization: Software engineering and Python
+      Conducted a research with the title "Lint-based Warnings in Python: Frequency, Awareness and Refactoring" which resulted in a paper published at the International Working Conference on Source Code Analysis and Manipulation.
+      Implemented a Visual Studio Code extension able to automatically fix Lint-based Warnings.
+  - degree: Bachelor in Computer Science
+    university: Universidade Federal de Alagoas, Maceió, Brazil
+    time: 2013 - 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Specialization: Machine Learning and distributed computing on the cloud
+      Participated in two different researches with the title "CloudArray: Easing huge image processing" and "An automatic deployment support for processing remote sensing data in the cloud". Where both were published at the International Geoscience and Remote Sensing Symposium.
+      Won twice the award of academic excellence for the scientific contributions on the previously cited papers.
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Data Scientist, Tech Leader and Software Engineer
+    time: Nov 2019 - Present
+    company: Centro de Inovações Edge
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      This company intermediates most of my projects. It is a R&D focused company which makes possible several projects in the field of machine learning and software engineering. Namely, my projects with Smart, ASUS, General Electric and Compal (all listed below) were made possible through it.
+
+  - role: Data Scientist
+    time: Sep 2022 - Dec 2022
+    company: Niche Investments
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      I projected and implemented a machine learning approach capable of automatically detecting relevant parts on the text of online sale listings. These parts were afterwards used as input to the company business model. Based on my previous experience, I was given in this project total liberty and control on the project design decisions. At the current time the implemented model is being prepared for the production final release.
+      Tools: Spacy, Heroku, Docker-compose, NLTK, Thefuzz, FastAPI, Pandas, Scikit-learn, Pytorch etc
+
+  - role: Data Scientist
+    time: Aug 2022 - Dec 2022
+    company: Bosch
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I was contracted to implement a real-time compliance detection of federal legislation using Natural Language Processing.
+      I used a web scraping approach in order to constantly read every newly published federal law. Then I trained a set of models which altogether were capable of identifying if the company is being compliant to these newly created legislation. On top of these models I built a fully fledged system capable of alerting the parts of interest about legislation changes, allowing them to take the needed actions.
+      Tools: Beautiful Soup, Spacy, MLFlow, SqlAlchemy, Docker-compose, Pandas, Scikit-learn, Pytorch etc
+
+  - role: Data Science Tech Leader
+    time: Mar 2021 - Present
+    company: General Electric
+    details: |
+      My goal was to build an automatic comprehension of unstructured technical documents in order to extract equipment specifications and offer sales recommendations.
+      Here I implemented a series of rule-based models capable of detecting the description of technical specifications of a set of medical equipment on auction orders. Using the collected specifications, I then implemented a recommendation system capable of automatically indicating which machine can be sold to the specific auction. Several other auxiliary models were also implemented, for example, a fuzzy matcher capable of visually indicating the location of the features within the documents, as well an OCR based text extractor interface for the final user. This is by far the largest project I've worked on.
+      Tools: Spacy, Displacy, Fuzzy matching, Structural Pattern matching, Parsing-three based matcher, Token sequence based matcher, Docker, Docker-compose, Pytest, Pandas etc
+
+  - role: Data Scientist
+    time: Aug 2020 - May 2022
+    company: Asus
+    details: |
+      I worked on a project where a set of web crawlers were used to collect user feedback from social media. These feedbacks were then processed in a manner to detect their opinion regarding the company.
+      Tools: BERT, HuggingFace, Keras, Twitter API, Youtube API, Spacy, Django, Docker-compose, Pandas, Pytorch etc
+
+  - role: Scientific Researcher
+    time: Jul 2015 - Jul 2018
+    company: Universidade Federal de Alagoas
+    details: |
+      I participated in several researches on the field of data processing. More specifically researches on the field of polarimetric image processing using distributed computing on top of the programming language Julia, as well medical image imaging using convolutional neural networks.
+      Tools: Julia, Python, R, Pytorch, AWS, Linux etc
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
+  - name: Academic Excellence Award
     start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    end: 2019
+    organization: Universidade Federal de Alagoas
+    credentialid: 
+    credentialurl: 
+    credentialname: 
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Won the award of academic excellence for scientific contributions on the research "CloudArray: Easing huge image processing" published at the International Geoscience and Remote Sensing Symposium.
+
+  - name: Academic Excellence Award
+    start: 2018
+    end: 2018
+    organization: Universidade Federal de Alagoas
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      Won the award of academic excellence for scientific contributions on the research "An automatic deployment support for processing remote sensing data in the cloud" published at the International Geoscience and Remote Sensing Symposium.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Here are some of the key projects I've worked on in the field of machine learning and AI solutions.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
+  - title: Lint-based Warnings in Python
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Research project on frequency, awareness and refactoring of Python lint warnings, resulting in a published paper and VS Code extension."
 
-  - title: Tempo
+  - title: Medical Equipment Recommendation System
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "AI-powered system for automatic comprehension of technical documents and sales recommendations for medical equipment auctions."
 
-  - title: Atom
+  - title: Federal Legislation Compliance Detection
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Real-time NLP system for detecting company compliance with newly published federal legislation using web scraping and machine learning."
 
-  - title: Delta
+  - title: Social Media Sentiment Analysis
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Web crawler system for collecting and analyzing user feedback from social media platforms using BERT and advanced NLP techniques."
+
+  - title: CloudArray Image Processing
+    link: "#"
+    tagline: "Distributed computing solution for processing large-scale remote sensing images using Julia and cloud infrastructure."
 
 oss:
-  title: OSS Contributions
+  title: Open Source Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    My contributions to open source projects and research publications in the field of computer science and machine learning.
   contributions:
-  - title: Tempo
+  - title: Lint-based Warnings in Python Research
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Published research on Python lint warnings at the International Working Conference on Source Code Analysis and Manipulation."
 
-  - title: Atom
+  - title: CloudArray Research
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Research on distributed image processing published at the International Geoscience and Remote Sensing Symposium."
 
-  - title: Delta
+  - title: Medical Image Processing
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Research on convolutional neural networks for medical image analysis using distributed computing."
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    My research publications in the field of computer science, machine learning, and software engineering.
   papers:
-  - title: The Art of Computer Programming
+  - title: "Lint-based Warnings in Python: Frequency, Awareness and Refactoring"
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: Naelson Douglas C. Oliveira
+    conference: "International Working Conference on Source Code Analysis and Manipulation, 2022"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  - title: "CloudArray: Easing huge image processing"
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    authors: Naelson Douglas C. Oliveira et al.
+    conference: "International Geoscience and Remote Sensing Symposium, 2019"
 
-  - title: A syntax directed compiler for Algol 60
+  - title: "An automatic deployment support for processing remote sensing data in the cloud"
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors: Naelson Douglas C. Oliveira et al.
+    conference: "International Geoscience and Remote Sensing Symposium, 2018"
 
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: General Electric Team
+    email: 
+    phone: 
+    role: Data Science Team
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+      Naelson demonstrated exceptional technical leadership in building our medical equipment recommendation system, delivering a complex AI solution that significantly improved our sales process.
 
-      He is a great employee!
+  - person: Bosch Project Team
+    email: 
+    phone: 
+    role: Compliance Team
+    recommendation: |
+      Naelson successfully implemented a real-time compliance detection system that automated our federal legislation monitoring, greatly improving our regulatory compliance capabilities.
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python & Machine Learning
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: Natural Language Processing (NLP)
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Docker & DevOps
+    level: 90%
+
+  - name: Spacy & NLTK
+    level: 95%
+
+  - name: PyTorch & Scikit-learn
+    level: 90%
+
+  - name: Linux & AWS
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Julia & R
+    level: 80%
+
+  - name: Web Scraping & APIs
+    level: 85%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
